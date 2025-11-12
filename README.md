@@ -2,7 +2,7 @@
 
 Extract materials and color palettes from any image.  Generate production-ready **materials, swatches, labels, Blender Palettes, and Assets** with one click.
 
-<img width="2078" height="1164" alt="Screengrab" src="https://github.com/user-attachments/assets/b8a2989b-4cac-4b5d-b033-bebb4a225ef8" />
+<img width="2079" height="1256" alt="Screengrab 2" src="https://github.com/user-attachments/assets/4f6ed37d-36ed-4ef5-b90f-a1097b6f0880" />
 
 ## Highlights
 
@@ -15,8 +15,9 @@ Extract materials and color palettes from any image.  Generate production-ready 
 - **Image Editor sync** will use whatever image is visible in the Image Editor
 - **Plain English Color Names** created automatically
 - **Blender Palette** creation for your texture painting needs
-- 
-<img width="2079" height="1256" alt="Screengrab 2" src="https://github.com/user-attachments/assets/4f6ed37d-36ed-4ef5-b90f-a1097b6f0880" />
+
+- <img width="2078" height="1164" alt="Screengrab" src="https://github.com/user-attachments/assets/b8a2989b-4cac-4b5d-b033-bebb4a225ef8" />
+
 
 ## How to Use
 
