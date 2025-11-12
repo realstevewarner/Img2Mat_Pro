@@ -7,7 +7,7 @@ Extract materials and color palettes from any image.  Generate production-ready 
 ## Highlights
 
 - **It just works.**  Load an image.  Click Generate Materials.  Done.
-- **Simple UI with Advanced Options
+- **Simple UI** with Advanced Options
 - **K-Means (RGB, Comfy)** or **Poster Unique** extraction
 - **Lock Colors** allow you to ensure the specific color you want gets created as a material.
 - **Auto-sized labels** that never exceed swatch width
