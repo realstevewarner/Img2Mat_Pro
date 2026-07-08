@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Image to Material (Locks + Assets + Smart Names + Palettes + Pantone)",
     "author": "Steve Warner + Codex",
-    "version": (1, 29, 0),
+    "version": (2, 0, 0),
     "blender": (3, 0, 0),
     "location": "View3D > Sidebar > Img2Mat",
     "description": (
